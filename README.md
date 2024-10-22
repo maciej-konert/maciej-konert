@@ -15,3 +15,7 @@ I enjoy meeting new people thus I was a core member of Google Developers Student
 C  
 Java  
 Python  
+
+### Contact
+email - maciej@grekomp.com
+linkedin - https://www.linkedin.com/in/maciej-konert-265157309/

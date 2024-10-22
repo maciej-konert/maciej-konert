@@ -1,10 +1,10 @@
 <center>
     <h1>Howdy, I'm Maciej! 👋</h1>
 </center>
-🎓 **Second-Year Comp Science Student @MIMUW**  
-💻 **Aspiring Software Developer**
-🌟 **Currently learning Algorithms and Data Structures, Databases and Concurrent Programming.
-💼 **Looking for a summer internship**
+🎓 **Second-Year Comp Science Student @MIMUW**    
+💻 **Aspiring Software Developer**  
+🌟 **Currently learning Algorithms and Data Structures, Databases and Concurrent Programming**  
+💼 **Looking for a summer internship**  
 
 ### About Me
 

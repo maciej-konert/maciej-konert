@@ -17,5 +17,5 @@ Java
 Python  
 
 ### Contact
-email - maciej@grekomp.com
+email - maciej@grekomp.com <br>
 linkedin - https://www.linkedin.com/in/maciej-konert-265157309/

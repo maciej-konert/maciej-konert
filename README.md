@@ -12,6 +12,6 @@ I am a second year Computer Science student at University of Warsaw. I'm passion
 I enjoy meeting new people thus I was a core member of Google Developers Students Club.
 
 ### Languages
-C
-Java
-Python
+C  
+Java  
+Python  

@@ -12,8 +12,8 @@ I am a third year Computer Science student at University of Warsaw. I'm passiona
 ### Languages
 C  
 Java  
-Python
-C++
+Python <br>
+C++ <br>
 C#
 
 ### Contact
